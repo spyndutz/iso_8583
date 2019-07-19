@@ -45,7 +45,7 @@
   "devDependencies": {
     "ava": "^2.0.0",
     "eslint": "^5.0.0",
-    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-import": "^2.18.2",
     "gulp": "^4.0.2",
     "gulp-shell": "^0.7.1",
     "jsdoc": "^3.6.2",
